@@ -1,0 +1,12 @@
+.venv/
+__pycache__/
+.pytest_cache/
+.env
+*.bin
+*.log
+*.csv
+*.json
+*.png
+data/
+output/
+one_click_runs/
